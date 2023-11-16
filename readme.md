@@ -1,4 +1,3 @@
-
-#QM2 Stuff and Things
+QM2 Stuff and Things
 
 We got stuff and things
